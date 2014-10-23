@@ -1,0 +1,10 @@
+Battle clicker automatically:
+
+* Clicks
+* Fights
+* Upgrades
+* Buys mercenaries
+* And upgrades your best gear! 
+
+
+A fun side project, that I had time to do on a friends computer in North Carolina away from my laptop. 
